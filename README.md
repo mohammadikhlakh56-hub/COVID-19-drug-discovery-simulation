@@ -28,7 +28,7 @@ ml model/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ml-model.git
+git clone https://github.com/https://github.com/mohammadikhlakh56-hub/COVID-19-drug-discovery-simulation/ml-model.git
 cd ml-model
 
 # Create a virtual environment
