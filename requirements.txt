@@ -1,0 +1,15 @@
+# Core ML
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Quantum Computing
+qiskit>=1.0.0,<2.0.0
+qiskit-algorithms>=0.3.0
+qiskit-machine-learning>=0.7.0
+
+# Data & Math
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Utilities
+matplotlib>=3.7.0
